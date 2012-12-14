@@ -11,5 +11,6 @@ You can find more details from the below link.
 http://tech.sarathdr.com/featured/jquery-slider-for-iphone-and-andriod-with-jquery-cycle-and-swipe-plugins
 
 Author: Sarath DR 
+
 Web: http://tech.sarathdr.com
 
